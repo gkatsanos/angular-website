@@ -10,3 +10,5 @@ Things you can see in the code:
 - Animations
 - ui-router
 - directives
+
+To see the website live go to http://demo2.gplus.gr

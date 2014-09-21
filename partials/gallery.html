@@ -1,0 +1,15 @@
+<div class="gallery-wrapper" ng-controller="galleryCtrl">
+  <div class="buttons-wrapper">
+    <button class="gallery-category" ng-click="my.filter='kitchen'">K&uuml;chen</button>
+    <button class="gallery-category" ng-click="my.filter='livingroom'">Wohn &amp; Essbereich</button>
+    <button class="gallery-category" ng-click="my.filter='bedroom'">Schlafzimmer</button>
+    <button class="gallery-category" ng-click="my.filter='bathroom'">Badm&ouml;bel</button>
+    <button class="gallery-category" ng-click="my.filter='wardrobe'">Garderoben</button>
+    <button class="gallery-category" ng-click="my.filter='doors-stairs'">T&uuml;ren &amp; Treppen</button>
+  </div>
+  <ul class="gallery">
+    <li ng-repeat="photo in photos | filter:{category: my.filter}" class="animate gallery-list-item" rel="group">
+      <a href="../photos/{{photo.url}}" class="{{photo.category}} fancybox" rel="group"><img ng-src="../photos/{{photo.url}}" alt=""/></a>
+    </li>
+  </ul>
+</div>

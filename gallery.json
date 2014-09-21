@@ -1,0 +1,182 @@
+[
+  {
+    "id" : 1,
+    "description" : "",
+    "category": "bathroom",
+    "url" : "bathroom/1.jpg"
+  },
+  {
+    "id" : 2,
+    "description" : "",
+    "category": "bathroom",
+    "url" : "bathroom/2.jpg"
+  },
+  {
+    "id" : 3,
+    "description" : "",
+    "category": "bedroom",
+    "url" : "bedroom/1.jpg"
+  },
+  {
+    "id" : 4,
+    "description" : "",
+    "category": "bedroom",
+    "url" : "bedroom/2.jpg"
+  },
+  {
+    "id" : 5,
+    "description" : "",
+    "category": "bedroom",
+    "url" : "bedroom/3.jpg"
+  },
+  {
+    "id" : 6,
+    "description" : "",
+    "category": "bedroom",
+    "url" : "bedroom/4.jpg"
+  },
+  {
+    "id" : 7,
+    "description" : "",
+    "category": "doors-stairs",
+    "url" : "doors-stairs/1.jpg"
+  },
+  {
+    "id" : 8,
+    "description" : "",
+    "category": "doors-stairs",
+    "url" : "doors-stairs/2.jpg"
+  },
+    {
+    "id" : 9,
+    "description" : "",
+    "category": "doors-stairs",
+    "url" : "doors-stairs/3.jpg"
+  },
+    {
+    "id" : 10,
+    "description" : "",
+    "category": "doors-stairs",
+    "url" : "doors-stairs/4.jpg"
+  },
+  {
+    "id" : 11,
+    "description" : "",
+    "category": "doors-stairs",
+    "url" : "doors-stairs/5.jpg"
+  },
+  {
+    "id" : 12,
+    "description" : "",
+    "category": "doors-stairs",
+    "url" : "doors-stairs/6.jpg"
+  },
+  {
+    "id" : 13,
+    "description" : "",
+    "category": "doors-stairs",
+    "url" : "doors-stairs/7.jpg"
+  },
+  {
+    "id" : 14,
+    "description" : "",
+    "category": "exterior",
+    "url" : "exterior/1.jpg"
+  },
+  {
+    "id" : 15,
+    "description" : "",
+    "category": "exterior",
+    "url" : "exterior/2.jpg"
+  },
+  {
+    "id" : 16,
+    "description" : "",
+    "category": "exterior",
+    "url" : "exterior/3.jpg"
+  },
+  {
+    "id" : 17,
+    "description" : "",
+    "category": "exterior",
+    "url" : "exterior/4.jpg"
+  },
+  {
+    "id" : 18,
+    "description" : "",
+    "category": "exterior",
+    "url" : "exterior/5.jpg"
+  },
+  {
+    "id" : 18,
+    "description" : "",
+    "category": "kitchen",
+    "url" : "kitchen/1.jpg"
+  },
+  {
+    "id" : 19,
+    "description" : "",
+    "category": "kitchen",
+    "url" : "kitchen/2.jpg"
+  },
+  {
+    "id" : 20,
+    "description" : "",
+    "category": "kitchen",
+    "url" : "kitchen/3.jpg"
+  },
+  {
+    "id" : 21,
+    "description" : "",
+    "category": "kitchen",
+    "url" : "kitchen/4.jpg"
+  },
+  {
+    "id" : 22,
+    "description" : "",
+    "category": "livingroom",
+    "url" : "livingroom/5.jpg"
+  },
+  {
+    "id" : 23,
+    "description" : "",
+    "category": "livingroom",
+    "url" : "livingroom/6.jpg"
+  },
+  {
+    "id" : 24,
+    "description" : "",
+    "category": "livingroom",
+    "url" : "livingroom/7.jpg"
+  },
+  {
+    "id" : 25,
+    "description" : "",
+    "category": "livingroom",
+    "url" : "livingroom/8.jpg"
+  },
+  {
+    "id" : 26,
+    "description" : "",
+    "category": "wardrobe",
+    "url" : "wardrobe/1.jpg"
+  },
+  {
+    "id" : 27,
+    "description" : "",
+    "category": "wardrobe",
+    "url" : "wardrobe/2.jpg"
+  },
+  {
+    "id" : 28,
+    "description" : "",
+    "category": "wardrobe",
+    "url" : "wardrobe/3.jpg"
+  },
+  {
+    "id" : 29,
+    "description" : "",
+    "category": "wardrobe",
+    "url" : "wardrobe/4.jpg"
+  }
+]

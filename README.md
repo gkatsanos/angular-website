@@ -11,4 +11,4 @@ Things you can see in the code:
 - ui-router
 - directives
 
-To see the website live go to http://demo2.gplus.gr
+To see the website live go to http://www.schreinerei-mitterndorfer.de
